@@ -3,3 +3,4 @@ backup/*
 tmp/*
 user/logs/*
 mods/stages.json
+.idea/
